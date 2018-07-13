@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Stagger</string>
+
+
+
+    <string name="staggeredgrid">Staggered GridLayoutManager</string>
+    <string name="horizontalrecyclerview">Horizontal RecyclerView</string>
+
+</resources>
